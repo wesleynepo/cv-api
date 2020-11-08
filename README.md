@@ -22,8 +22,12 @@ Vai subir a aplicacao local na porta definida.
 
 **Rotas**
 /api/users { POST, GET }
+
 /api/login  { POST } 
+
 /api/categoria { POST, GET, DELETE, PUT }
+
 /api/movimentacao { POST, GET, DELETE, PUT }
+
 /api/movimentacao/saldo { GET }
 
