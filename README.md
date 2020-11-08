@@ -21,6 +21,7 @@ Com os arquivos setados:
 Vai subir a aplicacao local na porta definida.
 
 **Rotas**
+
 /api/users { POST, GET }
 
 /api/login  { POST } 
