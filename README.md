@@ -32,3 +32,12 @@ Vai subir a aplicacao local na porta definida.
 
 /api/movimentacao/saldo { GET }
 
+/******************************/
+Lições aprendida: 
+ Primeiro contato com jwt e autenticação;
+ Primeiro contato com um teste ténico no stack.
+ 
+Pontos a melhorar:
+ Aprender a utilizar Swagger ou algum gerador de documentação;
+ Aprender a desenvolver testes com autenticação;
+ Aprender a aplicar o uso de containers.
