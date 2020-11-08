@@ -1,0 +1,2 @@
+DELETE http://localhost:3001/api/categoria/5fa69f25525e6a18f25dc4d0
+

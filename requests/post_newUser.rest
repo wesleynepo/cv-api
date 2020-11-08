@@ -1,0 +1,8 @@
+POST https://gentle-fjord-59942.herokuapp.com/api/users 
+Content-Type: application/json
+
+{
+    "name": "Wesley",
+    "username": "wesleynepo",
+    "password": "senhasegura"
+}

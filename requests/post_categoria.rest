@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/categoria
+Content-Type: application/json 
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Indlc2xleW5lcG8iLCJpZCI6IjVmYTc1MTBhNGQxZTZlMjRjNmRmZGZmMCIsImlhdCI6MTYwNDgwMDc5NX0.Ikcjundab0UOVotbCV_tDFlMc5XBc2WaptVbPb3nqeU
+
+{
+    "name": "Drogas"
+}
